@@ -14,3 +14,6 @@ https://medium.com/@makcedward/data-augmentation-for-audio-76912b01fdf6
 
 GitHub sur data augmentation pour capteurs inertiels:
 https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data
+
+plusieurs datasets : 
+https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
