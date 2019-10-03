@@ -18,3 +18,6 @@ https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data
 plusieurs datasets : 
 https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad
 https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
+
+Tensorflow speech command example : 
+https://github.com/tensorflow/docs/blob/master/site/en/r1/tutorials/sequences/audio_recognition.md
