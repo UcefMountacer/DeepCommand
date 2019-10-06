@@ -1,6 +1,8 @@
 # Interface-Homme-Machine
 Academic Project
 
+# Rérerences
+
 Audio Classification avec convolutional neural network
 https://medium.com/@CVxTz/audio-classification-a-convolutional-neural-network-approach-b0a4fce8f6c
 
