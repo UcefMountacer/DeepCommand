@@ -31,7 +31,9 @@ Pour charger un réseau de neurone, sauvegarder le model avec model.save("non du
 Pour charger un dataset (déja traité pour etre envoyé dans le réseau) :
 
   f=open("Nom du fichier.dts", "wb" )
+  
   pickle.dump([x_train,y_train,x_test,y_test,l],f,protocol=4) (l étant la liste des labels [bed,bird,cat...])
+  
   f.close()
   
 Il peut lire des fichier audio .wav (j'en ai mis 2 dans le .rar crées avec audacity) de 1s (ou plus si l'IA a été entrainé sur des fichiers de plus de 1s)
