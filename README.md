@@ -43,19 +43,4 @@ Il peut enregistrer le son du micro et (essayer de) reconnaitre le mot
 On peut aussi visualiser l'architecture du réseau
 
 
-model = tf.keras.models.Sequential()
-model.add(tf.keras.layers.Conv2D(32, (3, 3), input_shape=(54, 84, 4),activation='relu'))
-model.add(tf.keras.layers.MaxPooling2D(pool_size=(2, 2)))
-model.add(tf.keras.layers.Conv2D(32, (3, 3),activation=tf.nn.relu))
-model.add(tf.keras.layers.MaxPooling2D(pool_size=(2, 2)))
-model.add(tf.keras.layers.Conv2D(32, (3, 3),activation=tf.nn.relu))
-model.add(tf.keras.layers.MaxPooling2D(pool_size=(2, 2)))
-model.add(tf.keras.layers.Conv2D(32, (3, 3),activation=tf.nn.relu))
-model.add(tf.keras.layers.Flatten())
-model.add(tf.keras.layers.Dense(128, activation=tf.nn.relu))
-model.add(tf.keras.layers.Dense(128, activation=tf.nn.relu))
-model.add(tf.keras.layers.Dense(30, activation=tf.nn.softmax))
 
-model.compile(optimizer='adam',
-              loss='sparse_categorical_crossentropy',
-              metrics=['accuracy'])
