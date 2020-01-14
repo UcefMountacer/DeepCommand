@@ -1,6 +1,6 @@
 # Interface-Homme-Machine
 
-![Screenshot](DeepCommand.png)
+![Screenshot](DeepCommand.JPG)
 
 Academic Project
 
