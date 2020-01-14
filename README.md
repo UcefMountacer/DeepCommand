@@ -1,6 +1,12 @@
 # Interface-Homme-Machine
 Academic Project
 
+# Pour voir l'approche 1: 
+  ==> Youssef / Youssef_New
+  
+# Pour voir l'approche 2: 
+  ==> Damien / Damien_New
+
 # Rérérences
 
 Audio Classification avec convolutional neural network
