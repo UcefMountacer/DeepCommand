@@ -1,4 +1,7 @@
 # Interface-Homme-Machine
+
+![Screenshot](DeepCommand.png)
+
 Academic Project
 
 # Pour voir l'approche 1: 
